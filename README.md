@@ -17,4 +17,4 @@ Built with love and caffeine by [@professorpoof](https://github.com/professorpoo
 While this is currently a solo project, I'm open to the idea of future collaboration in areas like writing, design, or development. If you're interested, feel free to follow the project or reach out.
 
 ## 📜 License
-© 2025 professorpoof. This is a personal project — please do not copy, redistribute, or reuse without permission.
+See [LICENSE](./LICENSE) for usage terms.
